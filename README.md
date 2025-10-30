@@ -9,7 +9,7 @@ Structuration de la base de données (Access)
 
  Requêtes et indicateurs (56 requêtes réalisées)
 •	Rédaction de requêtes pour détecter des anomalies (ex. : clients enregistrés mais sans aucune visite).
-•	Création de requêtes de dénombrement simple (ex. : nombre total d’animaux, nombre de visites par mois).
+•	Création de requêtes de dénombrement simple (ex. : nombre total  d’animaux, nombre de visites par mois).
 •	Élaboration de requêtes pour le calcul d’indicateurs clés (KPI), comme le coût des traitements, le chiffre d’affaires par animal, etc.
 
 Reporting et visualisation des données
